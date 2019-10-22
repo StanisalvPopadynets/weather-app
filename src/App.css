@@ -1,0 +1,11 @@
+.weather__line {
+  padding-top: 10px;
+  border-bottom: 1px soid red;
+  color: #696969;
+  font-size: 1.8rem;
+}
+
+.weather__info {
+  color: lightseagreen;
+  margin-left: 10px;
+}
